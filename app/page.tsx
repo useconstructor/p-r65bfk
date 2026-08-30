@@ -110,7 +110,7 @@ const pricingTiers = [
 
 const testimonials = [
   {
-    quote: 'StellarFlow transformed how our engineering team operates. We shipped 40% faster in the first quarter.',
+    quote: 'Stellar transformed how our engineering team operates. We shipped 40% faster in the first quarter.',
     author: 'Sarah Chen',
     role: 'VP of Engineering',
     company: 'TechVentures',
@@ -155,7 +155,7 @@ export default function Home() {
           <div className="flex items-center justify-between h-16">
             <a href="#" className="flex items-center gap-2">
               <Sparkles className="w-8 h-8 text-brand" />
-              <span className="text-xl font-bold text-foreground">StellarFlow</span>
+              <span className="text-xl font-bold text-foreground">Stellar</span>
             </a>
 
             {/* Desktop Nav */}
@@ -224,7 +224,7 @@ export default function Home() {
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold tracking-tight mb-6">
               <span className="text-foreground">Ship faster with</span>
               <br />
-              <span className="gradient-text">StellarFlow</span>
+              <span className="gradient-text">Stellar</span>
             </h1>
             <p className="text-lg sm:text-xl text-muted max-w-2xl mx-auto mb-8">
               Ship faster. Stay aligned. Zero chaos.
@@ -248,7 +248,7 @@ export default function Home() {
             <div className="relative rounded-xl overflow-hidden border border-border glow-brand">
               <Image
                 src="/images/hero.png"
-                alt="StellarFlow dashboard showing project boards and team collaboration"
+                alt="Stellar dashboard showing project boards and team collaboration"
                 width={1200}
                 height={675}
                 className="w-full h-auto"
@@ -286,7 +286,7 @@ export default function Home() {
                 <div className="relative rounded-lg overflow-hidden border border-border">
                   <Image
                     src="/images/feature.png"
-                    alt="StellarFlow real time collaboration feature"
+                    alt="Stellar real time collaboration feature"
                     width={600}
                     height={400}
                     className="w-full h-auto"
@@ -421,7 +421,7 @@ export default function Home() {
               Loved by teams everywhere
             </h2>
             <p className="text-lg text-muted max-w-2xl mx-auto">
-              See what our customers have to say about StellarFlow.
+              See what our customers have to say about Stellar.
             </p>
           </div>
 
@@ -505,7 +505,7 @@ export default function Home() {
                 Start building better products today
               </h2>
               <p className="text-lg text-muted mb-8 max-w-xl mx-auto">
-                Join thousands of teams already using StellarFlow to ship faster and collaborate better.
+                Join thousands of teams already using Stellar to ship faster and collaborate better.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                 <Button asChild size="lg" className="bg-brand hover:bg-brand-light text-white glow-brand">
@@ -543,7 +543,7 @@ export default function Home() {
             <div className="col-span-2 md:col-span-1">
               <a href="#" className="flex items-center gap-2 mb-4">
                 <Sparkles className="w-6 h-6 text-brand" />
-                <span className="text-lg font-bold text-foreground">StellarFlow</span>
+                <span className="text-lg font-bold text-foreground">Stellar</span>
               </a>
               <p className="text-sm text-muted">
                 Project management for teams who ship fast.
@@ -607,7 +607,7 @@ export default function Home() {
           </div>
           <div className="pt-8 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted">
-              © {new Date().getFullYear()} StellarFlow. All rights reserved.
+              © {new Date().getFullYear()} Stellar. All rights reserved.
             </p>
             <div className="flex items-center gap-4">
               <a
