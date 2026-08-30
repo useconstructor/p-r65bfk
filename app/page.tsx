@@ -227,8 +227,7 @@ export default function Home() {
               <span className="gradient-text">StellarFlow</span>
             </h1>
             <p className="text-lg sm:text-xl text-muted max-w-2xl mx-auto mb-8">
-              The project management platform built for modern teams. Track progress, collaborate
-              seamlessly, and launch products your customers love.
+              Ship faster. Stay aligned. Zero chaos.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <Button asChild size="lg" className="bg-brand hover:bg-brand-light text-white glow-brand">
